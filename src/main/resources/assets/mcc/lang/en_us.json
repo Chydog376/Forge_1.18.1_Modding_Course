@@ -1,6 +1,9 @@
 {
   "item.mcc.cobalt_ingot": "Cobalt Ingot",
   "item.mcc.cobalt_nugget": "Cobalt Nugget",
+  "item.mcc.raw_cobalt": "Raw Cobalt",
   "block.mcc.cobalt_block": "Cobalt Block",
-  "block.mcc.cobalt_ore": "Cobalt Ore"
+  "block.mcc.deepslate_cobalt_ore": "Deepslate Cobalt Ore",
+  "block.mcc.cobalt_ore": "Cobalt Ore",
+  "block.mcc.raw_cobalt_block": "Raw Cobalt Block"
 }
