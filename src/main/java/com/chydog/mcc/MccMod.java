@@ -1,5 +1,6 @@
 package com.chydog.mcc;
 
+import com.chydog.mcc.block.ModBlocks;
 import com.chydog.mcc.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -32,6 +33,7 @@ public class MccMod
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
 
