@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {
+      "item": "mcc:cobalt_ore"
+    },
+    {
+      "item": "mcc:raw_cobalt"
+    },
+    {
+      "item": "mcc:deepslate_cobalt_ore"
+    }
+  ],
+  "result": "mcc:cobalt_ingot",
+  "experience": 1,
+  "cookingtime": 400
+}
